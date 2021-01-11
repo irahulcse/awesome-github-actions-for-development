@@ -1,15 +1,26 @@
 ![Image](images/rovers2.jpg)
-# Awesome GitHub Actions for Open Source Development + DevOps :boom:
+# Awesome GitHub Actions for Open Source Development + DevOps :boom: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 You all can add your specific github actions workflows for a particular values. But pls create a Folder with your name, if possible you can also add your README.md file in it.
 
 I will try to create a table in the README file of this project, so that everyone can have all the Actions/Workflows listed.
 
 
-### Show some love :heart: and star the repo to support the project
+### Show some love :heart: and star the repo and Contribute it.
 
 If you had like the project pls hit the star :+1: icon.
 
+You can also contribute by sharing!  
+
+Share the list with your classmates, your friends and everyone :)
+
+> By connecting more people to information,  
+> You, are doing not me, but everyone a HUGE favor!  
+> I really hope that more people can benefit from this list :)
+
+### Contributions
+Please clone and star this repo to stay up to date on changes. If anyone, would like to contribute to it. You can open the **issue/pull request** and start contributing to it. Pls add your name/id it will be helpful, for everyone.
 
 ### Created with :heart:
 I am Rahul Chandra, A a Final Year Computer Science Student, an experienced Software Developer with a demonstrated history of working in the information technology and services industry. Seasoned Competitive Coder. Skilled in C++, Python, Data Analysis, Java, Dart and Julia. Strong information technology professional with a Bachelor of Engineering - BE focused in Computer Science from Chandigarh University. 
@@ -20,6 +31,27 @@ I am currently looking for Full Time/ Internship Offer for any Software Developm
 <a href="https://www.linkedin.com/in/rahul-chandra-a8371b11b/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://facebook.com"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
 <a href="https://instagram.com/rahulchandra_99"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+
+## Table of Contents
+
+* [Flutter Workflows](#flutter-workflows)
+* [React Workflows](#React-workflows)
+* [Android Workflows](#Android-workflows)
+* [JSP Workflows](#JSP-workflows)
+
+
+
+
+## Flutter Workflows:
+| ☆ | Name | Description | Created By 
+| ★★ | [Build APK using GitHub Actions](https://github.com/irahulcse/awesome-github-actions-for-development/blob/main/Flutter%20Workflows/Build%20Flutter%20APK%20(Rahul%20Chandra)/.github/workflows/flutter-ci.yml) | In this workflow, only added the support to create APK's and uploading to @artificats. Branches supports are master + stable only. Easy to Configure | [Rahul Chandra](https://github.com/irahulcse)
+
+
+## React Workflows:
+
+## Android Workflows:
+
+## JSP(Java Server Pages) Workflows:
 
 
 
@@ -78,7 +110,6 @@ When there have been changes in the main repo that you want to get, the cleanest
   * `git cherry-pick COMMIT_ID`
 
 ## Contribution:
-Please clone and star this repo to stay up to date on changes. If anyone, would like to contribute to it. You can open the issue and start contributing to it.
 
 ## License
 
