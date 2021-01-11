@@ -1,35 +1,18 @@
-![Image](images/rovers.jpg)
-<!-- #  :boom: -->
+![Image](images/rovers2.jpg)
 # Awesome GitHub Actions for Open Source Development + DevOps :boom:
 
-<!-- Awesome GitHub Actions for Open Source Development + DevOps  -->
+You all can add your specific github actions workflows for a particular values. But pls create a Folder with your name, if possible you can also add your README.md file in it.
+
+I will try to create a table in the README file of this project, so that everyone can have all the Actions/Workflows listed.
+
 
 ### Show some love :heart: and star the repo to support the project
 
 If you had like the project pls hit the star :+1: icon.
 
-The Parent Repository of this project can be found on this [link](https://github.com/irahulcse/A-Complete-Guide-To-Flutter).
-
-<!-- # Live Working Project: -->
-
-<!-- [Demo Application](https://irahulcse.github.io/Telegram_Ui_Flutter/) -->
-
-<!-- ## Features Needed to Be Added:
-
-* [✅] Live Working Project
-* [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
-* [❌] Everything is static right now, no API integration done on it. -->
-
-
-<!-- ### Screenshots and Working GIFS: -->
-
-<!-- <img src="images/rovers.gif" height="360em"  width="250em"/> <img src="images/1.PNG" height="360em" width="250em"/> <img src="images/2.PNG" height="360em" width="250em"/><img src="images/3.PNG" height="360em" width="250em"/><img src="images/4.PNG" height="360em" width="250em"/><img src="images/5.PNG" height="360em" width="250em"/> -->
-
-
- <!-- Sorry for the quality of the GIF :pray: -->
 
 ### Created with :heart:
-I am Rahul Chandra, A a Pre-Final Year Computer Science Student, an experienced Software Developer with a demonstrated history of working in the information technology and services industry. Seasoned Competitive Coder. Skilled in C++, Python, Data Analysis, Java, Dart and Julia. Strong information technology professional with a Bachelor of Engineering - BE focused in Computer Science from Chandigarh University. 
+I am Rahul Chandra, A a Final Year Computer Science Student, an experienced Software Developer with a demonstrated history of working in the information technology and services industry. Seasoned Competitive Coder. Skilled in C++, Python, Data Analysis, Java, Dart and Julia. Strong information technology professional with a Bachelor of Engineering - BE focused in Computer Science from Chandigarh University. 
 
 I am currently looking for Full Time/ Internship Offer for any Software Development Roles. Pls, checkout my [Resume](https://drive.google.com/file/d/1BYZcHo9SGrI5h10fxFbtqPLz86ni_VnR/view?usp=sharing).  I am very passionated about Software Development :heart:
 
@@ -93,12 +76,6 @@ When there have been changes in the main repo that you want to get, the cleanest
 2. Cherry-pick that commit
   * `git checkout MyCleanBranch`
   * `git cherry-pick COMMIT_ID`
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.dev/).
-
 
 ## Contribution:
 Please clone and star this repo to stay up to date on changes. If anyone, would like to contribute to it. You can open the issue and start contributing to it.
