@@ -43,7 +43,8 @@ I am currently looking for Full Time/ Internship Offer for any Software Developm
 
 
 ## Flutter Workflows:
-| ☆ | Name | Description | Created By 
+| ☆ | Name | Description | Created By |
+| --- | --- | --- | --- |
 | ★★ | [Build APK using GitHub Actions](https://github.com/irahulcse/awesome-github-actions-for-development/blob/main/Flutter%20Workflows/Build%20Flutter%20APK%20(Rahul%20Chandra)/.github/workflows/flutter-ci.yml) | In this workflow, only added the support to create APK's and uploading to @artificats. Branches supports are master + stable only. Easy to Configure | [Rahul Chandra](https://github.com/irahulcse)
 
 
