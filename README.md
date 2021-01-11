@@ -1,7 +1,8 @@
 ![Image](images/rovers.jpg)
-#  :boom:
+<!-- #  :boom: -->
+# Awesome GitHub Actions for Open Source Development + DevOps :boom:
 
-Awesome GitHub Actions for Open Source Development + DevOps 
+<!-- Awesome GitHub Actions for Open Source Development + DevOps  -->
 
 ### Show some love :heart: and star the repo to support the project
 
