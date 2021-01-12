@@ -47,10 +47,19 @@ Please clone and star this repo to stay up to date on changes. If anyone, would 
 
 
 ## React Workflows:
+| ☆(Out of 5) | Name | Description | Created By |
+| --- | --- | --- | --- |
+
 
 ## Android Workflows:
+| ☆(Out of 5) | Name | Description | Created By |
+| --- | --- | --- | --- |
+
 
 ## JSP(Java Server Pages) Workflows:
+| ☆(Out of 5) | Name | Description | Created By |
+| --- | --- | --- | --- |
+
 
 
 
