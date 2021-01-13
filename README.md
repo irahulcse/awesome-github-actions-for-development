@@ -43,7 +43,7 @@ Please clone and star this repo to stay up to date on changes. If anyone, would 
 ## Flutter Workflows:
 | ☆(Out of 5) | Name | Description | Created By |
 | --- | --- | --- | --- |
-| ★★ | [Build APK using GitHub Actions](https://github.com/irahulcse/awesome-github-actions-for-development/blob/main/Flutter%20Workflows/Build%20Flutter%20APK%20(Rahul%20Chandra)/.github/workflows/flutter-ci.yml) | In this workflow, only added the support to create APK's and uploading to @artificats. Branches supported are master + stable only. Easy to Configure and deploy | [Rahul Chandra](https://github.com/irahulcse)
+| ★★ | [Build APK using GitHub Actions](https://github.com/irahulcse/awesome-github-actions-for-development/tree/main/Flutter%20Workflows/workflows/Build%20Flutter%20APK%20(Rahul%20Chandra)/.github/workflows) | In this workflow, only added the support to create APK's and uploading to @artificats. Branches supported are master + stable only. Easy to Configure and deploy | [Rahul Chandra](https://github.com/irahulcse)
 
 
 ## React Workflows:
