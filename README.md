@@ -74,7 +74,7 @@ You can follow the below workflow, if you are new to Git.
 1. Fork the main A-Complete-Guide-To-Flutter
 2. Clone this repo on your machine
 3. Add the main repo as "upstream"
-  * `git remote add upstream https://github.com/irahulcse/A-Complete-Guide-To-Flutter`
+  * `git remote add upstream https://github.com/irahulcse/awesome-github-actions-for-development`
 
 #### Starting a new issue
 1. Get the latest version of the project
