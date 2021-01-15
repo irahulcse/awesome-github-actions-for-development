@@ -1,5 +1,10 @@
 ![Image](images/rovers2.jpg)
-# Awesome GitHub Actions for Open Source Development + DevOps :boom: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome GitHub Actions for Open Source Development + DevOps :boom: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+![](https://img.shields.io/github/last-commit/irahulcse/awesome-github-actions-for-development.svg?label=last%20update&style=flat)
+[![GitHub stars](https://img.shields.io/github/stars/irahulcse/awesome-github-actions-for-development.svg?style=social&label=Star)](https://github.com/irahulcse/awesome-github-actions-for-development) [![GitHub forks](https://img.shields.io/github/forks/irahulcse/awesome-github-actions-for-development.svg?style=social&label=Fork)](https://github.com/irahulcse/awesome-github-actions-for-development/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/irahulcse/awesome-github-actions-for-development.svg?style=social&label=Watch)](https://github.com/irahulcse/awesome-github-actions-for-development)
+[![GitHub followers](https://img.shields.io/github/followers/irahulcse.svg?style=social&label=Follow)](https://github.com/irahulcse/awesome-github-actions-for-development) [![Twitter Followers](https://img.shields.io/twitter/follow/1rahulchandra1.svg?style=social)](https://twitter.com/1rahulchandra1)
+![](https://img.shields.io/github/repo-size/irahulcse/awesome-github-actions-for-development.svg?label=Repo%20size&style=flat-square)&nbsp;     
 
 
 You all can add your specific github actions workflows for a particular values. But pls create a Folder with your name, if possible you can also add your README.md file in it.
@@ -71,7 +76,7 @@ Testing of the Project is Done :heavy_check_mark:
 You can follow the below workflow, if you are new to Git. 
 
 #### Initial setup
-1. Fork the main A-Complete-Guide-To-Flutter
+1. Fork the main awesome-github-actions-for-development
 2. Clone this repo on your machine
 3. Add the main repo as "upstream"
   * `git remote add upstream https://github.com/irahulcse/awesome-github-actions-for-development`
