@@ -1,5 +1,5 @@
 ![Image](images/rovers2.jpg)
-# Awesome GitHub Actions for Open Source Development + DevOps :boom: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# Awesome GitHub Actions for Open Source Development + DevOps :boom: [![Awesome]](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 [![GitHub stars](https://img.shields.io/github/stars/irahulcse/awesome-github-actions-for-development.svg?style=social&label=Star)](https://github.com/irahulcse/awesome-github-actions-for-development) [![GitHub forks](https://img.shields.io/github/forks/irahulcse/awesome-github-actions-for-development.svg?style=social&label=Fork)](https://github.com/irahulcse/awesome-github-actions-for-development/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/irahulcse/awesome-github-actions-for-development.svg?style=social&label=Watch)](https://github.com/irahulcse/awesome-github-actions-for-development)
 [![GitHub followers](https://img.shields.io/github/followers/irahulcse.svg?style=social&label=Follow)](https://github.com/irahulcse/awesome-github-actions-for-development) [![Twitter Followers](https://img.shields.io/twitter/follow/1rahulchandra1.svg?style=social)](https://twitter.com/1rahulchandra1)
